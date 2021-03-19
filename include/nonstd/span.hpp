@@ -15,7 +15,7 @@
 #define span_lite_MINOR  9
 #define span_lite_PATCH  0
 
-#define span_lite_VERSION  span_STRINGIFY(span_lite_MAJOR) "." span_STRINGIFY(span_lite_MINOR) "." span_STRINGIFY(span_lite_PATCH)
+#define span_lite_VERSION  span_STRINGIFY(span_lite_MAJOR) "." span_STRINGIFY(span_lite_MINOR) "." span_STRINGIFY(span_lite_PATCH) " john"
 
 #define span_STRINGIFY(  x )  span_STRINGIFY_( x )
 #define span_STRINGIFY_( x )  #x
